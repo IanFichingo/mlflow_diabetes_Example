@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/Regression_Diabetes/mlruns/0/eeca8868b5df446b8bfb7b83ac7aa04a/artifacts
+end_time: 1693642111134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eeca8868b5df446b8bfb7b83ac7aa04a
+run_name: bouncy-snipe-203
+run_uuid: eeca8868b5df446b8bfb7b83ac7aa04a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693642036152
+status: 3
+tags: []
+user_id: user

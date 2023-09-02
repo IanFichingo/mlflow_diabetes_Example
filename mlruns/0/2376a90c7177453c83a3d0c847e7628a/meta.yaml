@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/Regression_Diabetes/mlruns/0/2376a90c7177453c83a3d0c847e7628a/artifacts
+end_time: 1693646654937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2376a90c7177453c83a3d0c847e7628a
+run_name: casual-snipe-472
+run_uuid: 2376a90c7177453c83a3d0c847e7628a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693646609043
+status: 3
+tags: []
+user_id: user
